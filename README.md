@@ -3,7 +3,7 @@
 ### Перейти к видео (клик по изображению)
 <a href="https://youtu.be/M-peGbXCvNA" target="_blank"><img src="img/poster.jpg"></a>
 
-### Оглавление
+## Оглавление
 00:00 - Первый скрипт Hello World на PHP  
 09:52 - Конец строки  
 19:29 - Комментарии  
@@ -420,25 +420,14 @@ https://www.php.net/manual/ru/function.mail
 ### 55. abstract и final классы и методы
 > lesson55
 
-### Ссылки на полезные видео уроки:
+## Ссылки на полезные видео уроки:
 1. <a href="https://youtu.be/2yT8jMgWvko" target="_blank">Основы программирования на примере Java Script</a>
 2. <a href="https://youtu.be/4rkj2CUpzpE" target="_blank">ООП на Java Script</a>
 3. <a href="https://youtu.be/LJCfPmbU4sc" target="_blank">ООП на PHP</a>
-3. <a href="https://youtu.be/daJgnaNC_1U" target="_blank">Квадратное уравнение на Java Script</a>
-3. <a href="https://youtu.be/uY0I4c3nwfA" target="_blank">Блок-схемы алгоритмов</a>
+4. <a href="https://youtu.be/daJgnaNC_1U" target="_blank">Квадратное уравнение на Java Script</a>
+5. <a href="https://youtu.be/uY0I4c3nwfA" target="_blank">Блок-схемы алгоритмов</a>
+6. <a href="https://www.php.net/manual/ru/" target="_blank">Оффициальная документация на русском языке</a>
 
-### Литература:
-1. <a href="https://www.php.net/manual/ru/" target="_blank">Оффициальная документация на русском языке</a>
+---
 
-
-### Я, Исмаил Усеинов:
-* __YouTube канал ITDoctor:__ https://www.youtube.com/c/ITDoctor
-* __Телеграм:__ https://t.me/itdoctorstudio
-* __Группа в ВК:__ https://vk.com/itdoctorstudio
-* __Instagram:__ https://instagram.com/ismail_asanovich/
-
-### Донаты ( ₽ ):
-* __СберБанк VISA:__ 4274 3200 3233 1582
-* __YooMoney:__ https://sobe.ru/na/itdoctor 
-* __PayPal__ https://paypal.me/itdoctorstudio
-* __Станьте спонсором Youtube канала:__ https://www.youtube.com/channel/UC2Ev-rDSHBov0ZMChesLfrg/join
+[![GitHub](https://img.shields.io/badge/-Мой_GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/morphIsmail)
